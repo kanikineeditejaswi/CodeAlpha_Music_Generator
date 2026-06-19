@@ -1,10 +1,10 @@
 # 🎵 Sakura Melody AI
 
-A web-based AI-inspired music generation application developed as part of the CodeAlpha Artificial Intelligence Internship Program. The application generates unique melody sequences and allows users to play and explore automatically created musical patterns through an interactive interface.
+A web-based music generation application that creates unique melody sequences and enables real-time playback through an interactive and visually engaging interface.
 
 ## 🚀 Project Overview
 
-The purpose of this project is to explore the fundamentals of music generation by creating dynamic melody sequences and providing an engaging platform for users to experience generated musical compositions.
+This project was developed to demonstrate how technology can be used to create engaging musical experiences through automated melody generation and real-time audio playback.
 
 ## ✨ Key Features
 
